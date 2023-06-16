@@ -1,6 +1,7 @@
 node_modules/
 .expo/
 dist/
+backend/includes/db_config.inc.php
 npm-debug.*
 *.jks
 *.p8
